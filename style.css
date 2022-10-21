@@ -1,0 +1,16 @@
+#wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+#results {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 1rem;
+}
+
+.definition-card {
+  border: 2px solid black;
+}
